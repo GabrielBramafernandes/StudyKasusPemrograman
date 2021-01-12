@@ -1,1 +1,4 @@
 # StudyKasusPemrograman
+'''
+gabriel Bramafernadnes
+'''
