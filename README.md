@@ -5,6 +5,7 @@
 Cara kerja dan Tampilan pada aplikasi ini.
 
 1.Tampilan Awal Pada Aplikasi.
+![tampilan awal](https://user-images.githubusercontent.com/61862943/104346324-dfb6f500-5531-11eb-80a6-d7d6c522db2d.JPG)
 
 2.Tampilan Voucher .
   Berfungsi sebagai penambhana voucher pada aplikasi ini
