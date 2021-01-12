@@ -25,6 +25,8 @@ Cara kerja dan Tampilan pada aplikasi ini.
    ```
    Dan tampilan seperti ini.
    ![pilihan voucher](https://user-images.githubusercontent.com/61862943/104346598-31f81600-5532-11eb-8dfe-216c0a7f30f1.JPG)
+   
+   
  3. Tampilan Daftar Menu Yang Di Tawarkan Pada Aplikasi.
     ```
     private void generateContentPenawaran()
