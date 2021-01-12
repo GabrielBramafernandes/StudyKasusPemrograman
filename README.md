@@ -4,8 +4,8 @@
 # Aplikasi Simulasi Pembelian Makanan Dan Minuman.
 Cara kerja dan Tampilan pada aplikasi ini.
 
-1.Tampilan Awal Pada Aplikasi
-2.Tampilan Voucher 
+1.Tampilan Awal Pada Aplikasi.
+2.Tampilan Voucher .
   Berfungsi sebagai penambhana voucher pada aplikasi ini
   ```
   private void generateListVoucher()
